@@ -1,0 +1,14 @@
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\obj\Debug\netcoreapp3.1\resultadoAluno.csproj.AssemblyReference.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\obj\Debug\netcoreapp3.1\resultadoAluno.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\obj\Debug\netcoreapp3.1\resultadoAluno.AssemblyInfoInputs.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\obj\Debug\netcoreapp3.1\resultadoAluno.AssemblyInfo.cs
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\obj\Debug\netcoreapp3.1\resultadoAluno.csproj.CoreCompileInputs.cache
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\bin\Debug\netcoreapp3.1\resultadoAluno.exe
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\bin\Debug\netcoreapp3.1\resultadoAluno.deps.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\bin\Debug\netcoreapp3.1\resultadoAluno.runtimeconfig.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\bin\Debug\netcoreapp3.1\resultadoAluno.runtimeconfig.dev.json
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\bin\Debug\netcoreapp3.1\resultadoAluno.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\bin\Debug\netcoreapp3.1\resultadoAluno.pdb
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\obj\Debug\netcoreapp3.1\resultadoAluno.dll
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\obj\Debug\netcoreapp3.1\resultadoAluno.pdb
+D:\Desktop\FIAP-SHIFT\Imersão_CSharp\resultadoAluno\resultadoAluno\obj\Debug\netcoreapp3.1\resultadoAluno.genruntimeconfig.cache
